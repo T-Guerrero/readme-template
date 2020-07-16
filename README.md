@@ -1,4 +1,6 @@
-![Logo of the project](http://logo_link)
+![Logo of the project](https://github.com/T-Guerrero/readme-template/blob/master/readme_images/logo.png)
+
+(Get a free logo at https://pt.freelogodesign.org/)
  
 ## Name_of_the_project
  
@@ -35,17 +37,25 @@ Here are the technologies used in this project.
 ## How to use
  
 Here will be the images and descriptions. Principal content.
+
+### 1 - Fool
+![FoolScreen](https://github.com/T-Guerrero/readme-template/blob/master/readme_images/FoolScreen.png)
+
+### 2 - Bar
+![BarScreen](https://github.com/T-Guerrero/readme-template/blob/master/readme_images/BarScreen.png)
  
  
 ## Features
  
   - Here will be the features.
+  - Feature 1
+  - Feature 2
  
  
 ## Links
  
   - Link of deployed application: (if has been deployed)
-  - Repository: https://link_of_repository
+  - Repository: https://github.com/T-Guerrero/readme-template
     - In case of sensitive bugs like security vulnerabilities, please contact
       YOUR EMAIL directly instead of using issue tracker. We value your effort
       to improve the security and privacy of this project!
@@ -58,7 +68,8 @@ Here will be the images and descriptions. Principal content.
  
 ## Authors
  
-* **YOUR NAME**: @YOUR_GITHUB_NICKNAME (https://github.com/YOUR_GITHUB_NICKNAME)
+* **YOUR NAME**:
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="githubLogo" width="28px" height="28px"> [@YOUR_GITHUB_NICKNAME](https://github.com/YOUR_GITHUB_NICKNAME)
  
  
 Please follow github and join us!
